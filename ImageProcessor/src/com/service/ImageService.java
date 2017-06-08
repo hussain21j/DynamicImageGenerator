@@ -9,6 +9,11 @@ import java.io.IOException;
 
 import javax.imageio.ImageIO;
 
+/**
+ * Service class for generating the Images
+ * @author Hussain
+ *
+ */
 public class ImageService {
 
 	/**

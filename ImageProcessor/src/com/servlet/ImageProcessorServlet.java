@@ -12,6 +12,9 @@ import javax.servlet.http.HttpServletResponse;
 import com.service.ImageService;
 
 /**
+ * Servlet acting as the controller
+ */
+/**
  * Servlet implementation class ImageProcessorServlet
  */
 @WebServlet(name = "ImageProcessorServlet", urlPatterns = "/getNewImage")

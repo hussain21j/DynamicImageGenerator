@@ -8,6 +8,11 @@ import java.io.IOException;
 
 import javax.imageio.ImageIO;
 
+/**
+ * Test Class
+ * @author Hussain
+ *
+ */
 public class Test {
 	public static void main(String[] args) throws IOException {
 		int width = 250;
